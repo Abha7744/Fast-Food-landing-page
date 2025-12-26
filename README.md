@@ -12,4 +12,4 @@ Responsive landing page built using HTML and CSS.
 - CSS3
 
 ## Live Demo
-👉 https://your-site-name.netlify.app
+👉 https://fastfoodio.netlify.app/
